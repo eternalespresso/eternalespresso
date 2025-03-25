@@ -1,4 +1,8 @@
 ## Hi there 👋
+- ✨ I'm new to GitHub and currently exploring it
+- 🌱 I’m actively learning Python for data analysis
+- 🤔 I'm looking for help with career guidance and job search
+
 
 <!--
 **eternalespresso/eternalespresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
